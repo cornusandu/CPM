@@ -1,0 +1,1 @@
+g++ ./src/install.cpp -shared -O0 -o install.dll -I "./src/deps" -L "./src/deps"
